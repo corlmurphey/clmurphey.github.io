@@ -1,0 +1,23 @@
+contact:
+  email: coreylynnmurphey@gmail.com
+  phone:
+  website: https://corlmurphey.github.io
+AOS: "Computer Science PhD Student"
+
+education:
+  - degree: "Ph.D"
+    year: "2026 (Expected)"
+    department: "Computer Science"
+    institution: "University of Colorado-Boulder"
+    subsections:
+      advisors: Liz Bradley and Jed Brown
+  - degree: "M.S."
+    year: "2014"
+    department: "Mechanical Engineering"
+    institution: "Stanford University"
+    note: "Depth in Energy Systems"
+  - degree: "B.S."
+    year: "2012"
+    department: "Mechanical Engineering"
+    institution: "Stanford University"
+    note: "Depth in Biomechanics"
