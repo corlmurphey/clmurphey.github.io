@@ -244,7 +244,6 @@ a.nav-link:hover{
 .short-bio{
 	font-size: 10pt;
 	padding-left:0px;
-	padding-bottom: 10px;
 }
 
 .short-bio p{
@@ -254,7 +253,7 @@ a.nav-link:hover{
 .cv {
 	font-size: 10pt;
 	font-weight: 300;
-	padding-top: 3pt;
+	padding-top: 5pt;
 	padding-left: 0px;
 }
 
@@ -266,7 +265,7 @@ a.nav-link:hover{
 
 .social-links{
 	font-size: 13pt;
-	padding-top: 3pt;
+	padding-top: 5pt;
 	padding-bottom: 10pt;
 }
 
