@@ -288,7 +288,11 @@ a.nav-link:hover{
 	border-bottom: none;
 }
 
-
+.social-links-footer{
+	font-size: 13pt;
+	padding-top: 0pt;
+	padding-bottom: 5pt;
+}
 
 /* CONTENT ELEMENTS */
 
