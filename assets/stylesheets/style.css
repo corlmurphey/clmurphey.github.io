@@ -57,9 +57,12 @@ h5{
 }
 
 p, li{
-	font-size: 12pt;
+	font-size: 11pt;
 	color: #7F7E7D;
 	line-height: 1.35;
+	text-align: justify;
+	text-justify: inter-word;
+
 }
 
 .post p{
