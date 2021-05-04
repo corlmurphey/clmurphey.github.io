@@ -1,10 +1,10 @@
 <div class="footer section container">
-  <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</p>
-
   <div class="social-links">
     <a href="https://github.com/{{ author.github }}"><i class="fa fa-github" aria-hidden="true"></i></a>
     <a href="{{author.linkedin}}"><i class="fa fa-linkedin"></i></a>
     <a href="{{author.orcid}}"><i class="ai ai-orcid"></i></a>
     <a href="{{author.googlescholar}}"><i class="ai ai-google-scholar-square"></i></a>
   </div>
+  <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</p>
+  <p>Built using Jekyll and GitHub Pages with inspiration from AcademicPages, a fork from Minimal Mistakes.</p>
 </div>
