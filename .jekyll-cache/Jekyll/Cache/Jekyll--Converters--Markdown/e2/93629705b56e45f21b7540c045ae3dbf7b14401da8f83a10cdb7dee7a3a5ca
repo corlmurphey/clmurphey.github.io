@@ -1,0 +1,4 @@
+I"ž<p>I worked with Professor Ellen Kuhl on computational models of the heart, skin, red blood cells, and vocal folds.  In this project, I developed a model of biventricular contraction and electrical conduction due to stimulation by pacemaker electrodes, implanted in the walls of both ventricles. Through this model, we were able to simulate EKGs representing electrical conductance of the myocardium viewed from  different planes of the heart.  The projections that simulate the EKG data are depicted on the right; pacing locations can be found to the left. (You can find the resulting conference paper below.)</p>
+
+<h2 id="voltage-conductance">Voltage Conductance</h2>
+:ET

@@ -16,6 +16,11 @@ collections:
       Dissertation:
   talks:
   teaching:
+  portfolio:
+    categories2:
+      simulation:
+      manufacturing:
+
 
 # Site Author PGP keys, Academicons
 author:
@@ -33,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "corlmurphey"
+  github           : "clmurphey"
   gitlab           :
   google_plus      :
   googlescholar    : "https://scholar.google.com/citations?user=HKWLUxAAAAAJ&hl=en" # "http://yourfullgooglescholarurl.com"
@@ -47,7 +52,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/CoreyMurphey"
   vine             :
   weibo            :
   xing             :
