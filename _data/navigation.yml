@@ -1,6 +1,6 @@
-- title: 'Research'
-  url: /research
-- title: 'Projects'
-  url: /projects
-- title: 'Vita'
+#- title: 'Research'
+#  url: /research
+#- title: 'Projects'
+#  url: /projects
+- title: 'Publications'
   url: /vita
