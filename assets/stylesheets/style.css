@@ -166,11 +166,13 @@ p, li{
 	color: #bbb;
 	text-decoration: none;
 	border-bottom: 1.4px solid #ccc;
+	text-align: center;
 }
 
 .footer a:hover{
 	color: #7F7F7F;
 	border-color: #7F7F7F;
+	text-align: center;
 }
 
 
