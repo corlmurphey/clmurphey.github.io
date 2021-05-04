@@ -19,7 +19,7 @@ collections:
 
 # Site Author PGP keys, Academicons
 author:
-  name             : "Corey Murphey"
+  name             : "Corey Lynn Murphey"
   avatar           : /assets/images/profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student" # e.g. "Asscociate Professor, Philosophy, MIT"
   department       : "Computer Science"

@@ -5,11 +5,12 @@
 <div class="profile col-12 col-sm-4 push-sm-8 text-center">
   <img src="{{ author.avatar }}" class="rounded img-fluid">
   <div class="contact-links">
+    <div class="author-name">{{ author.name }}</div>
     <div class="short-bio">{{ author.bio }}</div>
     <div class="short-bio">{{ author.department }}</div>
     <div class="short-bio">{{ author.employer }}</div>
-    <div class="short-bio">
-      <a href = "files/CV_CLM.pdf">Curriculum Vitae <i class="fa fa-file-o" aria-hidden="true"></i></a>
+    <div class="cv">
+      <a href = "files/CV_CLM.pdf"> CV <i class="fa fa-file-o" aria-hidden="true"></i></a>
     </div>
     <div class="social-links">
       <a href="https://github.com/{{ author.github }}"><i class="fa fa-github" aria-hidden="true"></i></a>

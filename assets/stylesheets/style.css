@@ -236,6 +236,11 @@ a.nav-link:hover{
 	filter: grayscale(15%) sepia(10%) brightness(1.13);
 }
 
+.author-name {
+	font-size: 11pt;
+	font-weight: bold;
+}
+
 .short-bio{
 	font-size: 10pt;
 	padding-left:0px;
@@ -243,6 +248,12 @@ a.nav-link:hover{
 
 .short-bio p{
 
+}
+
+.cv {
+	font-size: 10pt;
+	font-weight: 300;
+	padding-left: 0px;
 }
 
 .email{
@@ -254,7 +265,7 @@ a.nav-link:hover{
 .social-links{
 	font-size: 13pt;
 	padding-top: 3pt;
-	padding-bottom: 3pt;
+	padding-bottom: 10pt;
 }
 
 .social-links a{
