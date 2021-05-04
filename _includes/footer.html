@@ -1,10 +1,12 @@
 <div class="footer section container">
-  <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} ・ Built with <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> and <a href="https://pages.github.com" rel="nofollow">GitHub Pages</a></p>
   <div class="social-links">
     <a href="https://github.com/{{ author.github }}"><i class="fa fa-github" aria-hidden="true"></i></a>
     <a href="{{author.linkedin}}"><i class="fa fa-linkedin"></i></a>
     <a href="{{author.orcid}}"><i class="ai ai-orcid"></i></a>
     <a href="{{author.googlescholar}}"><i class="ai ai-google-scholar-square"></i></a>
   </div>
-
+  <div class="cv">
+    <a href = "files/CV_CLM.pdf"> CV <i class="fa fa-file-o" aria-hidden="true"></i></a>
+  </div>
+  <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</p>
 </div>

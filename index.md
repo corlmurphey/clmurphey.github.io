@@ -21,9 +21,6 @@ In my free time, I am an active church musician, recovering competitive swimmer,
 - Registered U.S. Patent Agent
 - Classical Lyric Soprano
 
-{: .little-links }
-[<i class="fa fa-file-o" aria-hidden="true"></i> CV](files/CV_CLM.pdf)
-
 <!--
 
 -->
