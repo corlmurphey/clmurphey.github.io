@@ -3,17 +3,20 @@ layout: archive-by-category
 title: Select Projects
 ---
 
-# Archive
+# Project Archive
 
 ## Simulation
 
-### Nebia
+|Nebia Shower | Biventricular|
+|             | Pacing       |
+|:-----:      | :----:       |
+|Left         | Center       |
 
-### Biventricular Pacing
 
-### Skin Growth
+| Skin Growth | Vocal Fold |
+|             | Vibration  |
+|:-----:      | :----:     |
 
-### Vocal Fold Vibration
 
 ## Manufacturing and Design
 
