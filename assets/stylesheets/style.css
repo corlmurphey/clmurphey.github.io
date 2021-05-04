@@ -110,7 +110,7 @@ p, li{
 }
 
 .main a:hover {
-	color: black;
+	color: #0b3734;
 	text-decoration: none;
 }
 
@@ -121,7 +121,7 @@ p, li{
 }
 
 .main p a:hover {
-	color: black;
+	color: #0b3734;
 	border-bottom: 1px solid black;
 }
 
@@ -196,7 +196,7 @@ a.navbar-brand{
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.12em;
-  color: black;
+  color: #1c5b82;
 }
 
 a.nav-link{
@@ -208,7 +208,7 @@ a.nav-link{
 }
 
 a.nav-link:hover{
-	color:#051b1a;
+	color:#0b3734;
 }
 
 .nav-link.active{
@@ -244,7 +244,7 @@ a.nav-link:hover{
 .author-name {
 	font-size: 11pt;
 	text-transform: uppercase;
-	color: #051b1a;
+	color: #1c5b82;
 	font-weight: bold;
 	padding-top: 5pt;
 	padding-bottom: 5pt;
@@ -343,7 +343,7 @@ a.nav-link:hover{
 
 .item-resources a:hover{
 	text-decoration: none;
-	color: black;
+	color: #0b3734;
 	border-style:none;
 }
 
@@ -373,7 +373,7 @@ p.little-links a{
 
 p.little-links a:hover{
 	text-decoration: none;
-	color: black;
+	color: #0b3734;
 	border-style:none;
 }
 

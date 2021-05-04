@@ -9,13 +9,13 @@ In a semi-recent past life, I was a Stanford-trained mechanical engineer and reg
 
 In my free time, I am an active church musician, recovering competitive swimmer, amateur bike builder, and proud Golden Retriever parent.
 
-### Research Interests
+## Research Interests
 - Numerical methods & scientific computing
 - Linear and non-linear PDEs
 - Fluid mechanics and acoustics
 - Sustainable design
 
-### Professional Overview
+## Professional Overview
 - M.S. Mechanical Engineering, Stanford '14
 - B.S.  Mechanical Engineering, Stanford '12
 - Registered U.S. Patent Agent
