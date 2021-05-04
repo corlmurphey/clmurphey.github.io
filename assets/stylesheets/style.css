@@ -253,6 +253,8 @@ a.nav-link:hover{
 
 .social-links{
 	font-size: 13pt;
+	padding-top: 3pt;
+	padding-bottom: 3pt;
 }
 
 .social-links a{
