@@ -7,15 +7,15 @@ title: Select Projects
 
 ## Simulation
 
-|Nebia Shower | Biventricular|
-|             | Pacing       |
+|Nebia Shower | Biventricular Pacing|
 |:-----:      | :----:       |
-|Left         | Center       |
+|         |        |
 
 
-| Skin Growth | Vocal Fold |
-|             | Vibration  |
-|:-----:      | :----:     |
+
+### skin growth
+
+### vocal fold vibration
 
 
 ## Manufacturing and Design
