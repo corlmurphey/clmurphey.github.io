@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-I am an incoming PhD Student in Computer Science at the University of Colorado - Boulder. I am co-advised by Liz Bradley (https://home.cs.colorado.edu/~lizb/) and Jed Brown (https://jedbrown.org/).
+I am an incoming PhD Student in Computer Science at the University of Colorado - Boulder. I am co-advised by [Liz Bradley] (https://home.cs.colorado.edu/~lizb/) and [Jed Brown] (https://jedbrown.org/).
 
 In a semi-recent past life, I was a Stanford-trained mechanical engineer and registered U.S. patent agent.  
 
