@@ -156,6 +156,7 @@ p, li{
 	border-top: 1.5px solid #eae8e8;
 	margin-left: auto;
 	margin-right: auto;
+	align-items: center;
 }
 
 .footer p{
@@ -172,7 +173,6 @@ p, li{
 .footer a:hover{
 	color: #7F7F7F;
 	border-color: #7F7F7F;
-	align-items: center;
 }
 
 
