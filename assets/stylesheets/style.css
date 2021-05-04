@@ -238,7 +238,10 @@ a.nav-link:hover{
 
 .author-name {
 	font-size: 11pt;
+	color: black;
 	font-weight: bold;
+	padding-top: 5pt;
+	padding-bottom: 5pt;
 }
 
 .short-bio{
