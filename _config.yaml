@@ -21,10 +21,10 @@ collections:
 author:
   name             : "Corey Murphey"
   avatar           : /assets/images/profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student, Computer Science, CU-Boulder" # e.g. "Asscociate Professor, Philosophy, MIT"
+  bio              : "PhD Student, Computer Science" # e.g. "Asscociate Professor, Philosophy, MIT"
   location         : # e.g. "Cambridge, MA"
-  employer         :
-  email            : coreylynnmurphey@gmail.com
+  employer         : "University of Colorado - Boulder"
+  email            : 
   phone            :
   uri              :
   bitbucket        :
@@ -40,8 +40,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/corey-lynn-m-08941152/" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  orcid            : "https://orcid.org/0000-0002-7480-3303" # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -80,7 +80,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               : 
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
