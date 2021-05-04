@@ -161,12 +161,14 @@ p, li{
 
 .footer p{
 	color: #bbb;
+	text-align: center;
 }
 
 .footer a{
 	color: #bbb;
 	text-decoration: none;
 	border-bottom: 1.4px solid #ccc;
+	text-align: center;
 
 }
 
