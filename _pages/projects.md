@@ -8,10 +8,11 @@ permalink: /projects/
 
 ## Simulation
 
-| Nebia Shower         | Biventricular Pacing |
-|:------------------------------:|:------------------------------:|
-| Short Description    |                      |
-
+<div class="container2">
+  <div class="card">
+    <h2> Nebia</h2>
+  </div>
+</div>
 
 
 | Skin Growth          | Vocal Folds Vibration|
