@@ -220,11 +220,11 @@ a.nav-link{
 }
 
 a.nav-link:hover{
-	color:#black;
+	color:black;
 }
 
 .nav-link.active{
-	color:#051b1a;
+	color:black;
 }
 
 .page-divider {

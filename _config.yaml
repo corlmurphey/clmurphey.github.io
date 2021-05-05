@@ -16,10 +16,6 @@ collections:
       Dissertation:
   talks:
   teaching:
-  portfolio:
-    categories2:
-      simulation:
-      manufacturing:
 
 
 # Site Author PGP keys, Academicons
@@ -83,7 +79,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : CoreyMurphey
 facebook:
   username               :
   app_id                 :

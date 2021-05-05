@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>/gemfolder/jekyll/update/2021/05/05/welcome-to-jekyll.html</loc>
+<lastmod>2021-05-05T14:54:31-06:00</lastmod>
+</url>
+<url>
+<loc>/about/</loc>
+</url>
+<url>
 <loc>/categories/</loc>
 </url>
 <url>
 <loc>/collection-archive/</loc>
+</url>
+<url>
+<loc>/GEMFOLDER/</loc>
 </url>
 <url>
 <loc>/</loc>
